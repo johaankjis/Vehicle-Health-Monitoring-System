@@ -2,6 +2,8 @@
 
 A cloud-native vehicle monitoring platform that collects, processes, and visualizes real-time telemetry data.
 
+> 📖 **[View the Complete Project Showcase](./SHOWCASE.md)** for a comprehensive overview of features, architecture, and use cases.
+
 ## Architecture
 
 \`\`\`
@@ -138,3 +140,8 @@ The dashboard features a dark theme inspired by modern observability platforms:
 - **Orange/coral accents** for warnings and critical alerts
 - **Clean, professional layout** optimized for fleet monitoring
 - **Responsive design** works on desktop and tablet devices
+
+## Documentation
+
+- **[SHOWCASE.md](./SHOWCASE.md)**: Comprehensive project showcase with features, use cases, and roadmap
+- **[ARCHITECTURE.md](./ARCHITECTURE.md)**: Detailed technical architecture and design decisions
